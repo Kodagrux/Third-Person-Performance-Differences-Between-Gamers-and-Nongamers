@@ -1,0 +1,1147 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"va",
+				"valueHandler"
+			],
+			[
+				"expon",
+				"exponentials"
+			],
+			[
+				"nrC",
+				"nrChannels"
+			],
+			[
+				"maxO",
+				"maxOutput"
+			],
+			[
+				"optio",
+				"optionExponentialMenu"
+			],
+			[
+				"app",
+				"appGUI"
+			],
+			[
+				"nr",
+				"nrChannels"
+			],
+			[
+				"fli",
+				"flightChannels"
+			],
+			[
+				"chan",
+				"channels"
+			],
+			[
+				"Che",
+				"CheckVar1"
+			],
+			[
+				"op",
+				"optionPortMenu"
+			],
+			[
+				"opt",
+				"optionActiveChannelMenu"
+			],
+			[
+				"fr",
+				"firstSend"
+			],
+			[
+				"se",
+				"send"
+			],
+			[
+				"send",
+				"sending"
+			],
+			[
+				"dualRate",
+				"dualRates"
+			],
+			[
+				"ch",
+				"channelValue"
+			],
+			[
+				"dua",
+				"dualRates"
+			],
+			[
+				"com",
+				"comLink"
+			],
+			[
+				"co",
+				"comPorts"
+			],
+			[
+				"sta",
+				"statusText"
+			],
+			[
+				"con",
+				"controllerData"
+			],
+			[
+				"max",
+				"maxOutput"
+			],
+			[
+				"chann",
+				"channelOutput"
+			],
+			[
+				"ori",
+				"originalLeftKnobCoordinates"
+			],
+			[
+				"ri",
+				"rightStick"
+			],
+			[
+				"right",
+				"rightKnob"
+			],
+			[
+				"ud",
+				"updateUIPins"
+			],
+			[
+				"value",
+				"valueHandler"
+			],
+			[
+				"th",
+				"thrustDecreaseMin"
+			],
+			[
+				"thr",
+				"thrustDecreaseMax"
+			],
+			[
+				"ma",
+				"mapThrust"
+			],
+			[
+				"min",
+				"minOutput"
+			],
+			[
+				"lhe",
+				"lheight2"
+			],
+			[
+				"lh",
+				"lheight"
+			],
+			[
+				"le",
+				"lefthand"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"frame",
+				"frameString"
+			],
+			[
+				"fra",
+				"frameString"
+			],
+			[
+				"rgb",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"po",
+				"positions"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"A",
+				"APIError"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"cat",
+				"cat"
+			],
+			[
+				"long",
+				"longitude"
+			],
+			[
+				"poi",
+				"pois"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"to",
+				"toArray"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"fu",
+				"fun	function …"
+			],
+			[
+				"POI",
+				"POICategory"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"lo",
+				"longitude"
+			],
+			[
+				"la",
+				"latitude"
+			],
+			[
+				"positi",
+				"position_array"
+			],
+			[
+				"map_",
+				"map_styling_json"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"getA",
+				"getAltitudeFromGoogle"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"GEO",
+				"GeoJSON"
+			],
+			[
+				"aray",
+				"array"
+			],
+			[
+				"else",
+				"elseif	elseif …"
+			],
+			[
+				"pos",
+				"positions"
+			],
+			[
+				"catego",
+				"category_id"
+			],
+			[
+				"with",
+				"withErrors"
+			],
+			[
+				"geo",
+				"geoJSON"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"inputP",
+				"inputPositions"
+			],
+			[
+				"lon",
+				"Longitude"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"positio",
+				"positions"
+			],
+			[
+				"input",
+				"inputPositions"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"cae",
+				"categories_with_no_children"
+			],
+			[
+				"parent",
+				"parent_id"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"emp",
+				"empty_name"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"rec",
+				"recommended"
+			],
+			[
+				"crea",
+				"created_by"
+			],
+			[
+				"user",
+				"user_input"
+			],
+			[
+				"users",
+				"users_id_array"
+			],
+			[
+				"us",
+				"users_id__array"
+			],
+			[
+				"pro",
+				"project_member"
+			],
+			[
+				"proje",
+				"project"
+			],
+			[
+				"project",
+				"project_data"
+			],
+			[
+				"proj",
+				"project"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"translat",
+				"translateX"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ope",
+				"openMenu"
+			],
+			[
+				"menu",
+				"menuout"
+			],
+			[
+				"close",
+				"closeMenu"
+			],
+			[
+				"MARGI",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"header",
+				"header_bebas_size"
+			],
+			[
+				"MARG",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"of",
+				"offset"
+			],
+			[
+				"opa",
+				"opacity"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"img",
+				"image"
+			],
+			[
+				"botto",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Outline.tex",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"snippe",
+				"Snippet: html"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set bla",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"h",
+				"Snippet: html"
+			],
+			[
+				"b",
+				"SFTP: Browse Server…"
+			],
+			[
+				"edi",
+				"SFTP: Edit Server…"
+			],
+			[
+				"setup",
+				"SFTP: Setup Server…"
+			],
+			[
+				"snio",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"ed",
+				"SFTP: Edit Server…"
+			],
+			[
+				"edit",
+				"SFTP: Edit Server…"
+			],
+			[
+				"sft",
+				"SFTP: Setup Server…"
+			],
+			[
+				"se",
+				"SFTP: Edit Server…"
+			],
+			[
+				"stino",
+				"Stino: New Sketch..."
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Add Repository"
+			],
+			[
+				"g",
+				"Git: Init"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 353.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/arvidbrane/Dropbox/Projekt/Leap2Arduino2Tx/LICENSE.txt",
+		"/Users/arvidbrane/Dropbox/Projekt/Leap2Arduino2Tx/README.md",
+		"/Users/arvidbrane/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/arvidbrane/Dropbox/Skola/Digital Vision/stylesheet.css",
+		"/Users/arvidbrane/Dropbox/Skola/Digital Vision/index.html",
+		"/Users/arvidbrane/Dropbox/Skola/Digital Vision/javascript.js",
+		"/Users/arvidbrane/Dropbox/Projekt/phaser_tutorial_02/part1.html",
+		"/Users/arvidbrane/Dropbox/Skola/Emergenta System/LarvNet/larvnet.nlogo",
+		"/Users/arvidbrane/Dropbox/Projekt/AntonOchLisa/wp/wp-content/themes/antonochlisa/category.php",
+		"/Users/arvidbrane/Dropbox/Skola/Emergenta System/Lab2/Flocking-arvid.nlogo",
+		"/Users/arvidbrane/Dropbox/Skola/Emergenta System/Lab2/Flocking-albin.nlogo",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/arvidbrane/style-smaller.less",
+		"/Users/arvidbrane/Desktop/sublime-yosemite/dark.icns",
+		"/Users/arvidbrane/Desktop/kisskaka.html",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/arvidbrane/footer.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/arvidbrane/js/jquery.min.map",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/arvidbrane/page-templates/start.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/arvidbrane/abstract_classes.less",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/arvidbrane/style-mobile.css",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/arvidbrane/arvidbrane.sublime-workspace",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/arvidbrane/untitled.sublime-project",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/controllers/CategoryController.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/controllers/APIController.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/database/seeds/DatabaseSeeder.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/views/poi/new.blade.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/views/poi/pending.blade.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/config/app.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/controllers/BaseController.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/views/404.blade.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/routes.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/views/category/new.blade.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/views/poi/poi.blade.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/views/register.blade.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/views/login.blade.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/public/js/poi.maps.js",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/models/POICategory.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/models/POIURL.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/models/POIImage.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/models/POIFavorite.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/models/POIPosition.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/models/POI.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/views/poi/pois.blade.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/public/js/poi.new.js",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/views/base_layout.blade.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/public/js/GeoJSON.js",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/filters.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/models/User.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/database/migrations/2014_05_05_102350_create_user_table.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/database/migrations/2014_05_05_105546_create_POI_table.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/database/migrations/2014_05_05_115400_create_POI_images_table.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/database/migrations/2014_05_05_113504_create_URL_table.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/database/migrations/2014_05_05_104853_create_CAT_table.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/.gitignore",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/models/Position.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/models/Category.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/models/URL.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/models/Favorite.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Topp/API/app/models/Image.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Laravel/Skola/AFI_lab2/app/views/projects/my_projects.blade.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Laravel/Skola/AFI_lab2/app/views/projects/all_projects.blade.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Laravel/Skola/AFI_lab2/app/views/registration.blade.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Laravel/Skola/AFI_lab2/app/views/home.blade.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Laravel/Skola/AFI_lab2/app/models/Projects.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Laravel/Skola/AFI_lab2/app/views/all_projects.blade.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Laravel/Skola/AFI_lab2/app/views/my_projects.blade.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Laravel/Skola/AFI_lab2/app/views/new_project.blade.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Laravel/Skola/AFI_lab2/app/database/migrations/2014_04_22_155914_add_remember_token_to_users_table.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Laravel/Skola/AFI_lab2/app/config/database.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Laravel/Skola/AFI_lab2/app/config/app.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Laravel/Skola/AFI_lab2/public/js/base.js",
+		"/Users/arvidbrane/Dropbox/Projekt/Laravel/Skola/AFI_lab2/app/database/migrations/2014_04_22_140624_create_users_to_projects_table.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Laravel/Skola/AFI_lab2/app/database/migrations/2014_04_22_135659_create_projects_table.php",
+		"/Users/arvidbrane/Dropbox/Projekt/Laravel/Skola/AFI_lab2/app/database/migrations/2014_04_22_133330_create_users_table.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/arvidbrane/windows.less",
+		"/Users/arvidbrane/Dropbox/Projekt/baseless/inputs.less",
+		"/Users/arvidbrane/Desktop/arvidbrane.se - old/index.html",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/arvidbrane/count_layers.jsx",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/page-templates/about.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/page-templates/resume.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/index.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/functions.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/single.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/footer.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/category-blog.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/js/main.js",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/category-work.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/page-templates/start.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/content.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/style-mobile.less",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/style-smaller.less",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/style.less",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/header.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/abstract_classes.less",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/content-blog.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/404.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/page-templates/wip.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/js/modernizr.js",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/languages/twentytwelve.pot",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/content-quote.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-content/themes/twentytwelve/content-image.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/wp/wp-config.php",
+		"/Users/arvidbrane/Desktop/wordpress/wp-config.php",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/new 4/abstract_classes.less",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/new 4/js/modernizr.js",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/new 4/swipe.less",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/new 4/index.html",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/new 4/style.less",
+		"/Users/arvidbrane/Dropbox/Projekt/arvidbrane.se/index.html",
+		"/Users/arvidbrane/Dropbox/Skola/AI/lab2/training-file.txt",
+		"/Users/arvidbrane/Dropbox/Skola/AI/lab2/training-facit.txt",
+		"/Users/arvidbrane/Dropbox/Projekt/Balticgruppen plugin/Python/parser/Parser.py",
+		"/Users/arvidbrane/Dropbox/Skola/AI/lab1/ou1.py",
+		"/Users/arvidbrane/Dropbox/Skola/AI/lab1/Laser.py",
+		"/Users/arvidbrane/Dropbox/Skola/AI/lab2/Node.py",
+		"/Users/arvidbrane/Dropbox/Skola/AI/lab2/Image.py",
+		"/Users/arvidbrane/Dropbox/Skola/AI/lab2/Facit.py",
+		"/Users/arvidbrane/Dropbox/Skola/AI/lab2/Faces.py",
+		"/Users/arvidbrane/Dropbox/Skola/AI/lab2/Parameters.py",
+		"/Users/arvidbrane/Dropbox/Skola/AI/lab2/ou2.py",
+		"/Users/arvidbrane/Dropbox/Projekt/playoff.io/impress/index.html",
+		"/Users/arvidbrane/Documents/test.py",
+		"/Users/arvidbrane/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/arvidbrane/Dropbox/Skola/AI/lab1/Route.py",
+		"/Users/arvidbrane/Dropbox/Skola/AI/lab1/Parameters.py",
+		"/Users/arvidbrane/Dropbox/Skola/AI/lab1/MRDS.py",
+		"/Users/arvidbrane/Dropbox/Skola/AI/lab1/Robot.py",
+		"/Users/arvidbrane/Dropbox/Projekt/playoff.io/impress/css/impress-demo.less",
+		"/Users/arvidbrane/Dropbox/Projekt/markdown.js/markdown.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nrActiveChannels",
+			"self.dualRates",
+			"self.exponentials",
+			"self.nrChannels",
+			"self.minInput",
+			"self.maxInput",
+			"self.minOutput",
+			"self.maxOutput",
+			"apply",
+			"print",
+			"DISABLED",
+			"self.flightChannelsVariable.get()",
+			"nrActiveChannels",
+			"int(self.optionThrustMenuVariable.get())",
+			"thustControllerMode",
+			"C1",
+			"Port",
+			"self.optionMenu",
+			"optionMenu",
+			"print",
+			" - leftCorr",
+			" + rightCorr",
+			"+ l",
+			"10",
+			"20",
+			"+15",
+			"-15",
+			"-30",
+			"+ 30",
+			"getOutput",
+			"calcDualRate",
+			"dual",
+			" * ",
+			"self.con",
+			"con",
+			"var",
+			"controller",
+			"thrust",
+			"Thrust",
+			"thrust",
+			"parrent",
+			"5",
+			"originalLeftStickCoordinates",
+			"self.",
+			"scaledValue",
+			"Value",
+			"value",
+			"yMin",
+			"yMax",
+			"xMin",
+			"xMax",
+			"0.2",
+			"roll",
+			"img",
+			"@article_text_size",
+			"margin: 2%",
+			"img",
+			".or",
+			"or",
+			".map",
+			"ul",
+			"ol{",
+			"ol ",
+			"ol",
+			"work-cat-foo",
+			"*",
+			"<strong",
+			"<br>",
+			"corner",
+			"assistive-text",
+			"cyckel",
+			"Cyckel",
+			"nyda",
+			"register",
+			"Register",
+			"register",
+			"login",
+			"LogIn",
+			"login",
+			"old_password",
+			"position_rules",
+			"postionRules",
+			"inputPosition",
+			"input_positions",
+			"inputPositions",
+			"ch",
+			"user",
+			"category",
+			"p",
+			"map_data",
+			"geoJSON",
+			"	        	'color' => '#2E82FF',",
+			"'color' => '#2E82FF',",
+			"Longitude",
+			"longitude",
+			"Longitude",
+			"longitude",
+			"itterator + 1",
+			"prote",
+			"category",
+			"1",
+			"User",
+			"UserController",
+			"poi",
+			"POI",
+			"poi",
+			"pois",
+			"Recommended",
+			"home",
+			"Auth::get('permission')",
+			"user_in_database",
+			"all_projects",
+			"clasS",
+			"h6",
+			"collaborator",
+			"users",
+			"h2",
+			"P",
+			"p",
+			"h6",
+			"em",
+			"Em",
+			"em",
+			": ",
+			":",
+			"h2",
+			"/p",
+			"Login"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Outline.tex",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.stino_log":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/arvidbrane/Dropbox/Projekt/Leap2Arduino2Tx/LeapController.py"
+			],
+			[
+				"media",
+				"nobicon/php_include_dev7/templates/pods/media_statistics_main.tpl"
+			],
+			[
+				"med",
+				"nobicon/php_include_dev7/templates/pods/media_statistics_tools.tpl"
+			],
+			[
+				"include",
+				"nobicon/php_include_dev7/include_index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/arvidbrane/Dropbox/Projekt/Leap2Arduino2Tx/Leap2Arduino2Tx.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true
+}
