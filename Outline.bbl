@@ -1,3 +1,83 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{hagg2012nya}
+G{\"o}ran H{\"a}gg.
+\newblock {\em Nya f{\"o}rfattarskolan}.
+\newblock Wahlstr{\"o}m \& Widstrand, 2012.
+ \begin{quotation}\noindent There are some interesting parts in this (Swedish)
+  book that basically says that when a reader is reading a book it doesn't
+  matter if its written in first-person or in third-person, the reader quickly
+  adapts. This means that in writing there isn't really a significant
+  difference between the two writing types, at least not for the reader.
+  \end{quotation}
+
+\bibitem{knapp2004limited}
+Joshua~M Knapp and Jack~M Loomis.
+\newblock Limited field of view of head-mounted displays is not the cause of
+  distance underestimation in virtual environments.
+\newblock {\em Presence: Teleoperators and Virtual Environments},
+  13(5):572--577, 2004.
+ \begin{quotation}\noindent There are some very interesting parts in this
+  article, but the most useful is probably the result; \verb;``; This result
+  indicates that the significant underperception of distance observed in
+  several studies on distance perception in virtual environments is not caused
+  by the limited field of view of the head-mounted display \verb;``;. This
+  means that it shouldn't really matter what quality and FOV the video glasses
+  I use for the study. Of course this is something that needs to be tested.
+  \end{quotation}
+
+\bibitem{nakamura20103pi}
+Ricardo Nakamura, Lucas~LM Lago, Alexandre~B Carneiro, Anderson~JC Cunha,
+  F{\'a}bio~JM Ortega, Jo{\~a}o~L Bernardes~Jr, and Romero Tori.
+\newblock 3pi experiment: immersion in third-person view.
+\newblock In {\em Proceedings of the 5th ACM SIGGRAPH Symposium on Video
+  Games}, pages 43--48. ACM, 2010.
+ \begin{quotation}\noindent As this article focuses on AR mostly it is not that
+  relevant to my study. Although I find the method very interesting, especially
+  since they target games with this study. \end{quotation}
+
+\bibitem{rouse1999s}
+Richard Rouse~III.
+\newblock What's your perspective?
+\newblock {\em ACM SIGGRAPH Computer Graphics}, 33(3):9--12, 1999.
+ \begin{quotation}\noindent Even though this is a very old article about games
+  I still think it is very relevant. It talks about different perspective in
+  games and the benefits from each some thing that is very interesting since
+  the 1990:s where when graphics in computer games grew more and more powerful.
+  \end{quotation}
+
+\bibitem{salamin2010quantifying}
+Patrick Salamin, Tej Tadi, Olaf Blanke, Fr{\'e}d{\'e}ric Vexo, and Daniel
+  Thalmann.
+\newblock Quantifying effects of exposure to the third and first-person
+  perspectives in virtual-reality-based training.
+\newblock {\em Learning Technologies, IEEE Transactions on}, 3(3):272--276,
+  2010.
+ \begin{quotation}\noindent This study is \emph{very} similar to mine in many
+  ways, especially how the test the third-person view building a similar rig as
+  I plan to build. It does not however focus on the performance differences
+  between gamers and non-gamers \end{quotation}
+
+\bibitem{salamin2006benefits}
+Patrick Salamin, Daniel Thalmann, and Fr{\'e}d{\'e}ric Vexo.
+\newblock The benefits of third-person perspective in virtual and augmented
+  reality?
+\newblock In {\em Proceedings of the ACM symposium on Virtual reality software
+  and technology}, pages 27--30. ACM, 2006.
+ \begin{quotation}\noindent In my early experiments building the rig I've
+  notice a very disturbing outer-body-experience that is hard to put into
+  words. Even though I can see my own limbs it is very hard to understand that
+  the limbs I see are my own. When reading this article on VR and AR I noticed
+  they described this very well. \end{quotation}
+
+\bibitem{schmierbach2011exploring}
+Mike Schmierbach, Michael~P Boyle, Qian Xu, and Douglas~M McLeod.
+\newblock Exploring third-person differences between gamers and nongamers.
+\newblock {\em Journal of Communication}, 61(2):307--327, 2011.
+ \begin{quotation}\noindent This study also focuses on some differences between
+  gamers and non-gamers but it doesn't (at least not to my understanding) focus
+  on trying this out. It is more based on surveys than hands on testing. I
+  should say that I have not yet read the whole article since it's so long.
+  \end{quotation}
 
 \end{thebibliography}
