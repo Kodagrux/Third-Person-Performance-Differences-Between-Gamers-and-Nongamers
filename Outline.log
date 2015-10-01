@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.22)  25 SEP 2015 15:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.22)  1 OCT 2015 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -633,31 +633,47 @@ File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 
 
 {/usr/local/texlive/2015basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./Outline.bbl [2] [3]) [4] (./Outline.aux) ) 
+<GTA.jpg, id=14, 1284.8pt x 722.7pt>
+File: GTA.jpg Graphic file (type jpg)
+ <use GTA.jpg>
+Package pdftex.def Info: GTA.jpg used on input line 149.
+(pdftex.def)             Requested size: 347.12354pt x 195.2529pt.
+
+<Rig.png, id=15, 336.25626pt x 353.32pt>
+File: Rig.png Graphic file (type png)
+ <use Rig.png>
+Package pdftex.def Info: Rig.png used on input line 155.
+(pdftex.def)             Requested size: 173.56177pt x 182.36887pt.
+ [2] [3 <./GTA.jpg> <./Rig.png>] (./Outline.bbl [4]) [5] (./Outline.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2898 strings out of 494501
- 38812 string characters out of 6167030
- 99548 words of memory out of 5000000
- 6144 multiletter control sequences out of 15000+600000
- 10712 words of font info for 24 fonts, out of 8000000 for 9000
+ 2915 strings out of 494501
+ 38981 string characters out of 6167030
+ 98564 words of memory out of 5000000
+ 6156 multiletter control sequences out of 15000+600000
+ 11488 words of font info for 25 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 37i,5n,23p,528b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
- </Users/arvidbrane/Library/texliv
-e/2015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti0900.600pk> </Users/arvid
-brane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.
-600pk> </Users/arvidbrane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/j
-knappen/ec/ecbx1000.600pk> </Users/arvidbrane/Library/texlive/2015basic/texmf-v
-ar/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </Users/arvidbrane/Library/texli
-ve/2015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0900.600pk> </Users/arvi
-dbrane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900
-.600pk> </Users/arvidbrane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/
-jknappen/ec/ecrm1000.600pk> </Users/arvidbrane/Library/texlive/2015basic/texmf-
-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk></usr/local/texlive/2015basic/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Outline.pdf (4 pages, 91972 bytes).
+ 37i,5n,23p,399b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </Users/arvidbrane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ecti0900.600pk> </Users/arvidbrane/Library/texlive/2015basic/texmf-var/f
+onts/pk/ljfour/jknappen/ec/ecbx0900.600pk> </Users/arvidbrane/Library/texlive/2
+015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.600pk> </Users/arvidbra
+ne/Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600
+pk> </Users/arvidbrane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/jkna
+ppen/ec/ecbx1200.600pk> </Users/arvidbrane/Library/texlive/2015basic/texmf-var/
+fonts/pk/ljfour/jknappen/ec/ectt0900.600pk> </Users/arvidbrane/Library/texlive/
+2015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </Users/arvidbr
+ane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.60
+0pk> </Users/arvidbrane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/jkn
+appen/ec/ecbx1440.600pk></usr/local/texlive/2015basic/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb>
+Output written on Outline.pdf (5 pages, 226967 bytes).
 PDF statistics:
- 322 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 364 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
