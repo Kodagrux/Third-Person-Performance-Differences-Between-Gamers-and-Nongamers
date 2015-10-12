@@ -1,4 +1,10 @@
 {
+	"folders":
+	[
+		{
+			"path": "Report"
+		}
+	],
 	"settings":
 	{
 		"spell_check": true
