@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.22)  12 OCT 2015 16:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.22)  12 OCT 2015 17:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -540,42 +540,100 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 (/usr/local/texlive/2015basic/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (./Report.aux)
+)
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2015/05/11 v0.4x Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count116
+\calc@Bcount=\count117
+\calc@Adimen=\dimen127
+\calc@Bdimen=\dimen128
+\calc@Askip=\skip45
+\calc@Bskip=\skip46
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count118
+\calc@Cskip=\skip47
+)
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/04/20 v2.0e eso-pic (RN)
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+\AM@pagewidth=\dimen129
+\AM@pageheight=\dimen130
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2015/05/11 v0.4x Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box54
+\AM@toc@title=\toks21
+\c@AM@survey=\count119
+\AM@templatesizebox=\box55
+)
+(./Report.aux)
 \openout1 = `Report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 12.
 
 (/usr/local/texlive/2015basic/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    ... okay on input line 12.
 
 (/usr/local/texlive/2015basic/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count116
-\scratchdimen=\dimen127
-\scratchbox=\box54
-\nofMPsegments=\count117
-\nofMParguments=\count118
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count119
-\MPscratchDim=\dimen128
-\MPnumerator=\count120
-\makeMPintoPDFobject=\count121
-\everyMPtoPDFconversion=\toks22
+\scratchcounter=\count120
+\scratchdimen=\dimen131
+\scratchbox=\box56
+\nofMPsegments=\count121
+\nofMParguments=\count122
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count123
+\MPscratchDim=\dimen132
+\MPnumerator=\count124
+\makeMPintoPDFobject=\count125
+\everyMPtoPDFconversion=\toks23
 ) (/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -583,10 +641,6 @@ Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 (/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-(/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -623,11 +677,12 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+\AtBeginShipoutBox=\box57
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 30.
+(Font)              <7> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 30.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 30.
+(Font)              <5> on input line 31.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 31.
  (/usr/local/texlive/2015basic/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ) [1
@@ -635,44 +690,119 @@ File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 
 {/usr/local/texlive/2015basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 ]
-<GTA.jpg, id=18, 1284.8pt x 722.7pt>
-File: GTA.jpg Graphic file (type jpg)
- <use GTA.jpg>
-Package pdftex.def Info: GTA.jpg used on input line 161.
+<ExternalMaterial/GTA.jpg, id=18, 1284.8pt x 722.7pt>
+File: ExternalMaterial/GTA.jpg Graphic file (type jpg)
+
+<use ExternalMaterial/GTA.jpg>
+Package pdftex.def Info: ExternalMaterial/GTA.jpg used on input line 162.
 (pdftex.def)             Requested size: 347.12354pt x 195.2529pt.
 
-<Rig.png, id=19, 336.25626pt x 353.32pt>
-File: Rig.png Graphic file (type png)
- <use Rig.png>
-Package pdftex.def Info: Rig.png used on input line 167.
+<ExternalMaterial/Rig.png, id=19, 336.25626pt x 353.32pt>
+File: ExternalMaterial/Rig.png Graphic file (type png)
+
+<use ExternalMaterial/Rig.png>
+Package pdftex.def Info: ExternalMaterial/Rig.png used on input line 168.
 (pdftex.def)             Requested size: 173.56177pt x 182.36887pt.
- [3] [4 <./GTA.jpg> <./Rig.png>] (./Report.bbl) [5] (./Report.aux) ) 
+ [3] [4 <./ExternalMaterial/GTA.jpg> <./ExternalMaterial/Rig.png>] (./Report.bb
+l) [5]
+<ExternalMaterial/Survey.pdf, id=32, 614.295pt x 794.97pt>
+File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
+
+<use ExternalMaterial/Survey.pdf>
+Package pdftex.def Info: ExternalMaterial/Survey.pdf used on input line 235.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
+ <use ExternalMaterial/Survey.pdf>
+Package pdftex.def Info: ExternalMaterial/Survey.pdf used on input line 235.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<ExternalMaterial/Survey.pdf, id=35, page=1, 614.295pt x 794.97pt>
+File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
+
+<use ExternalMaterial/Survey.pdf, page 1>
+Package pdftex.def Info: ExternalMaterial/Survey.pdf, page1 used on input line 
+235.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
+
+<use ExternalMaterial/Survey.pdf, page 1>
+Package pdftex.def Info: ExternalMaterial/Survey.pdf, page1 used on input line 
+235.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
+
+<use ExternalMaterial/Survey.pdf, page 1>
+Package pdftex.def Info: ExternalMaterial/Survey.pdf, page1 used on input line 
+235.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
+
+<use ExternalMaterial/Survey.pdf, page 1>
+Package pdftex.def Info: ExternalMaterial/Survey.pdf, page1 used on input line 
+235.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [6]
+<ExternalMaterial/Survey.pdf, id=39, page=2, 614.295pt x 794.97pt>
+File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
+
+<use ExternalMaterial/Survey.pdf, page 2>
+Package pdftex.def Info: ExternalMaterial/Survey.pdf, page2 used on input line 
+235.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
+
+<use ExternalMaterial/Survey.pdf, page 2>
+Package pdftex.def Info: ExternalMaterial/Survey.pdf, page2 used on input line 
+235.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
+
+<use ExternalMaterial/Survey.pdf, page 1>
+Package pdftex.def Info: ExternalMaterial/Survey.pdf, page1 used on input line 
+235.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [7 <./ExternalMaterial/Survey.pdf
+
+pdfTeX warning: pdflatex (file ./ExternalMaterial/Survey.pdf): PDF inclusion: i
+nvalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+
+>]
+File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
+ <use ExternalMaterial/Survey.pdf, page 2>
+Package pdftex.def Info: ExternalMaterial/Survey.pdf, page2 used on input line 
+235.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [8 <./ExternalMaterial/Survey.pdf
+
+pdfTeX warning: pdflatex (file ./ExternalMaterial/Survey.pdf): PDF inclusion: i
+nvalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+
+>] (./Report.aux) ) 
 Here is how much of TeX's memory you used:
- 2916 strings out of 494501
- 38987 string characters out of 6167030
- 98567 words of memory out of 5000000
- 6157 multiletter control sequences out of 15000+600000
+ 4172 strings out of 494501
+ 57360 string characters out of 6167030
+ 125470 words of memory out of 5000000
+ 7383 multiletter control sequences out of 15000+600000
  11488 words of font info for 25 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 37i,5n,23p,336b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
- </Users/ar
-vidbrane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti09
-00.600pk> </Users/arvidbrane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfou
-r/jknappen/ec/ecti1000.600pk> </Users/arvidbrane/Library/texlive/2015basic/texm
-f-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </Users/arvidbrane/Library/te
-xlive/2015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </Users/a
-rvidbrane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx0
-900.600pk> </Users/arvidbrane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfo
-ur/jknappen/ec/ectt0900.600pk> </Users/arvidbrane/Library/texlive/2015basic/tex
-mf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </Users/arvidbrane/Library/t
-exlive/2015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </Users/
-arvidbrane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx
-1440.600pk></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb>
-Output written on Report.pdf (5 pages, 224366 bytes).
+ 40i,18n,46p,336b,431s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </Users/arvidbrane/Library/texlive/2015basic/texmf-var/font
+s/pk/ljfour/jknappen/ec/ecti0900.600pk> </Users/arvidbrane/Library/texlive/2015
+basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.600pk> </Users/arvidbrane/
+Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk>
+ </Users/arvidbrane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/jknappe
+n/ec/ecbx1200.600pk> </Users/arvidbrane/Library/texlive/2015basic/texmf-var/fon
+ts/pk/ljfour/jknappen/ec/ecbx0900.600pk> </Users/arvidbrane/Library/texlive/201
+5basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0900.600pk> </Users/arvidbrane
+/Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk
+> </Users/arvidbrane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/jknapp
+en/ec/ecrm1000.600pk> </Users/arvidbrane/Library/texlive/2015basic/texmf-var/fo
+nts/pk/ljfour/jknappen/ec/ecbx1440.600pk></usr/local/texlive/2015basic/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Report.pdf (8 pages, 381417 bytes).
 PDF statistics:
- 356 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 405 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

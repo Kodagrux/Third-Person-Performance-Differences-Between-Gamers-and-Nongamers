@@ -6,7 +6,8 @@
 % \usepackage[latin1]{inputenc}
 \usepackage{textcomp}
 \usepackage{graphicx}    
-\usepackage{url}          
+\usepackage{url}
+\usepackage{pdfpages}          
 
 \begin{document}
 
@@ -158,13 +159,13 @@ The final result of what the rig looks like when put together correctly can be f
 
 \begin{figure}
    \centering
-   \includegraphics[width=\textwidth]{GTA}
+   \includegraphics[width=\textwidth]{ExternalMaterial/GTA}
    \caption{A typical third-person view in the game \emph{Grand Theft Auto: IV}. \label{fig:GTAIV}}
 \end{figure}
 
 \begin{figure}
    \centering
-   \includegraphics[width=0.5\textwidth]{Rig}
+   \includegraphics[width=0.5\textwidth]{ExternalMaterial/Rig}
    \caption{A detailed overview of different parts of the rig. \label{fig:RigDesign}}
 \end{figure}
 
@@ -225,6 +226,13 @@ As a finish, and a complement to the abstract, the conclusion should contain:
 % \bibliographystyle{plain-annote}
 
 \bibliography{Bibliography}
+
+\newpage
+\appendix
+
+\section{Appendix}
+
+\includepdf[pages={1-2}]{ExternalMaterial/Survey.pdf}
 
 
 \end{document}
