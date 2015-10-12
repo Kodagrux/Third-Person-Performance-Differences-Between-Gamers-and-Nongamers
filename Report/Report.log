@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.22)  12 OCT 2015 15:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.22)  12 OCT 2015 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -638,23 +638,23 @@ File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 <GTA.jpg, id=18, 1284.8pt x 722.7pt>
 File: GTA.jpg Graphic file (type jpg)
  <use GTA.jpg>
-Package pdftex.def Info: GTA.jpg used on input line 158.
+Package pdftex.def Info: GTA.jpg used on input line 161.
 (pdftex.def)             Requested size: 347.12354pt x 195.2529pt.
 
 <Rig.png, id=19, 336.25626pt x 353.32pt>
 File: Rig.png Graphic file (type png)
  <use Rig.png>
-Package pdftex.def Info: Rig.png used on input line 164.
+Package pdftex.def Info: Rig.png used on input line 167.
 (pdftex.def)             Requested size: 173.56177pt x 182.36887pt.
- [3 <./GTA.jpg>] [4 <./Rig.png>] (./Report.bbl) [5] (./Report.aux) ) 
+ [3] [4 <./GTA.jpg> <./Rig.png>] (./Report.bbl) [5] (./Report.aux) ) 
 Here is how much of TeX's memory you used:
  2916 strings out of 494501
  38987 string characters out of 6167030
- 97567 words of memory out of 5000000
+ 98567 words of memory out of 5000000
  6157 multiletter control sequences out of 15000+600000
  11488 words of font info for 25 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 37i,5n,23p,399b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,5n,23p,336b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
  </Users/ar
 vidbrane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti09
 00.600pk> </Users/arvidbrane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfou
@@ -669,9 +669,9 @@ exlive/2015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </Users/
 arvidbrane/Library/texlive/2015basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx
 1440.600pk></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb>
-Output written on Report.pdf (5 pages, 223029 bytes).
+Output written on Report.pdf (5 pages, 224366 bytes).
 PDF statistics:
- 353 PDF objects out of 1000 (max. 8388607)
+ 356 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
