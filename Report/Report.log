@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.22)  12 OCT 2015 17:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.22)  14 OCT 2015 14:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -690,18 +690,23 @@ File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 
 {/usr/local/texlive/2015basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 ]
+Overfull \hbox (15.93085pt too wide) in paragraph at lines 154--155
+\T1/cmr/m/n/10 video stream, was mounted circa a me-ter ap-prox-i-mately 45 de-
+grees above/behind
+ []
+
 <ExternalMaterial/GTA.jpg, id=18, 1284.8pt x 722.7pt>
 File: ExternalMaterial/GTA.jpg Graphic file (type jpg)
 
 <use ExternalMaterial/GTA.jpg>
-Package pdftex.def Info: ExternalMaterial/GTA.jpg used on input line 162.
+Package pdftex.def Info: ExternalMaterial/GTA.jpg used on input line 166.
 (pdftex.def)             Requested size: 347.12354pt x 195.2529pt.
 
 <ExternalMaterial/Rig.png, id=19, 336.25626pt x 353.32pt>
 File: ExternalMaterial/Rig.png Graphic file (type png)
 
 <use ExternalMaterial/Rig.png>
-Package pdftex.def Info: ExternalMaterial/Rig.png used on input line 168.
+Package pdftex.def Info: ExternalMaterial/Rig.png used on input line 172.
 (pdftex.def)             Requested size: 173.56177pt x 182.36887pt.
  [3] [4 <./ExternalMaterial/GTA.jpg> <./ExternalMaterial/Rig.png>] (./Report.bb
 l) [5]
@@ -709,11 +714,11 @@ l) [5]
 File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
 
 <use ExternalMaterial/Survey.pdf>
-Package pdftex.def Info: ExternalMaterial/Survey.pdf used on input line 235.
+Package pdftex.def Info: ExternalMaterial/Survey.pdf used on input line 239.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
  <use ExternalMaterial/Survey.pdf>
-Package pdftex.def Info: ExternalMaterial/Survey.pdf used on input line 235.
+Package pdftex.def Info: ExternalMaterial/Survey.pdf used on input line 239.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 <ExternalMaterial/Survey.pdf, id=35, page=1, 614.295pt x 794.97pt>
@@ -721,25 +726,25 @@ File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
 
 <use ExternalMaterial/Survey.pdf, page 1>
 Package pdftex.def Info: ExternalMaterial/Survey.pdf, page1 used on input line 
-235.
+239.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
 
 <use ExternalMaterial/Survey.pdf, page 1>
 Package pdftex.def Info: ExternalMaterial/Survey.pdf, page1 used on input line 
-235.
+239.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
 
 <use ExternalMaterial/Survey.pdf, page 1>
 Package pdftex.def Info: ExternalMaterial/Survey.pdf, page1 used on input line 
-235.
+239.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
 
 <use ExternalMaterial/Survey.pdf, page 1>
 Package pdftex.def Info: ExternalMaterial/Survey.pdf, page1 used on input line 
-235.
+239.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [6]
 <ExternalMaterial/Survey.pdf, id=39, page=2, 614.295pt x 794.97pt>
@@ -747,19 +752,19 @@ File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
 
 <use ExternalMaterial/Survey.pdf, page 2>
 Package pdftex.def Info: ExternalMaterial/Survey.pdf, page2 used on input line 
-235.
+239.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
 
 <use ExternalMaterial/Survey.pdf, page 2>
 Package pdftex.def Info: ExternalMaterial/Survey.pdf, page2 used on input line 
-235.
+239.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
 
 <use ExternalMaterial/Survey.pdf, page 1>
 Package pdftex.def Info: ExternalMaterial/Survey.pdf, page1 used on input line 
-235.
+239.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [7 <./ExternalMaterial/Survey.pdf
 
@@ -770,7 +775,7 @@ nvalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 File: ExternalMaterial/Survey.pdf Graphic file (type pdf)
  <use ExternalMaterial/Survey.pdf, page 2>
 Package pdftex.def Info: ExternalMaterial/Survey.pdf, page2 used on input line 
-235.
+239.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [8 <./ExternalMaterial/Survey.pdf
 
@@ -781,11 +786,11 @@ nvalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 Here is how much of TeX's memory you used:
  4172 strings out of 494501
  57360 string characters out of 6167030
- 125470 words of memory out of 5000000
+ 124470 words of memory out of 5000000
  7383 multiletter control sequences out of 15000+600000
  11488 words of font info for 25 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 40i,18n,46p,336b,431s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,18n,46p,452b,431s stack positions out of 5000i,500n,10000p,200000b,80000s
  </Users/arvidbrane/Library/texlive/2015basic/texmf-var/font
 s/pk/ljfour/jknappen/ec/ecti0900.600pk> </Users/arvidbrane/Library/texlive/2015
 basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.600pk> </Users/arvidbrane/
@@ -799,9 +804,9 @@ ts/pk/ljfour/jknappen/ec/ecbx0900.600pk> </Users/arvidbrane/Library/texlive/201
 en/ec/ecrm1000.600pk> </Users/arvidbrane/Library/texlive/2015basic/texmf-var/fo
 nts/pk/ljfour/jknappen/ec/ecbx1440.600pk></usr/local/texlive/2015basic/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Report.pdf (8 pages, 381417 bytes).
+Output written on Report.pdf (8 pages, 388593 bytes).
 PDF statistics:
- 405 PDF objects out of 1000 (max. 8388607)
+ 426 PDF objects out of 1000 (max. 8388607)
  80 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
