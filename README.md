@@ -3,6 +3,10 @@ A project in the course Student Conference
 
 
 ###Report
+
+####Usage
+In order to get a PDF you need to download the latex compiler. After that you want to open your terminal, navigate to the *Report*-folder and run ```pdflatex Report``` and then ```bibtex Report``` and then ```pdflatex Report``` and finally ```pdflatex Report``.
+
 ####Result
 Lorem Ipsum
 
