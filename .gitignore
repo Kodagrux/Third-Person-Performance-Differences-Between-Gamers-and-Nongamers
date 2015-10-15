@@ -18,3 +18,23 @@
 *.log
 
 *.aux
+
+LatexTemplates/UMLdiagram.pdf
+
+LatexTemplates/splncs.bst
+
+LatexTemplates/README.me
+
+LatexTemplates/plain-annote.bst
+
+LatexTemplates/llncs.pdf
+
+LatexTemplates/llncs.cls
+
+LatexTemplates/example_picture.JPG
+
+LatexTemplates/demo.tex
+
+LatexTemplates/demo.pdf
+
+LatexTemplates/demo.bib
