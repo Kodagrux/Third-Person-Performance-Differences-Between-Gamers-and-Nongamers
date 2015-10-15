@@ -2,12 +2,20 @@
 A project in the course Student Conference
 
 
-###Result
+###Report
+####Result
 Lorem Ipsum
 
 
-###Content
+####Content
 Lorem Ipsum
+
+###Rig
+Images of the rig and description
+
+####Parts
+List
+
 
 
 ###License
