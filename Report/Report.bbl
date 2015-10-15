@@ -30,23 +30,4 @@ H{\"a}gg, G.:
 \newblock Nya f{\"o}rfattarskolan.
 \newblock Wahlstr{\"o}m \& Widstrand (2012)
 
-\bibitem{salamin2010quantifying}
-Salamin, P., Tadi, T., Blanke, O., Vexo, F., Thalmann, D.:
-\newblock Quantifying effects of exposure to the third and first-person
-  perspectives in virtual-reality-based training.
-\newblock Learning Technologies, IEEE Transactions on \textbf{3}(3) (2010)
-  272--276
-
-\bibitem{rouse1999s}
-Rouse~III, R.:
-\newblock What's your perspective?
-\newblock ACM SIGGRAPH Computer Graphics \textbf{33}(3) (1999)  9--12
-
-\bibitem{knapp2004limited}
-Knapp, J.M., Loomis, J.M.:
-\newblock Limited field of view of head-mounted displays is not the cause of
-  distance underestimation in virtual environments.
-\newblock Presence: Teleoperators and Virtual Environments \textbf{13}(5)
-  (2004)  572--577
-
 \end{thebibliography}
