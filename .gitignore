@@ -14,3 +14,7 @@
 *.blg
 
 *.aux
+
+*.log
+
+*.aux
