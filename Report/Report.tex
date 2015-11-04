@@ -8,6 +8,7 @@
 \usepackage[utf8]{inputenc}
 % \usepackage[latin1]{inputenc}
 \usepackage{textcomp}
+\usepackage{array}
 \usepackage{graphicx}    
 \usepackage{url}
 \usepackage{pdfpages}          
@@ -70,7 +71,7 @@ The abstract will include the following:
 % Description of what third-person view is
 
 
-There is a constantly ongoing debate of whether playing video games produce negative side-effects or not~\cite{tear2014video}. Some earlier findings indicate that committing ``immoral'' virtual behaviors in a video game can lead to increased moral sensitivity of the player~\cite{grizzard2014being}. Others studies point towards that playing video games do not have any effect on depression, hostility, or, visuospatial cognition~\cite{valadez2012just}. There are even results in experiments that suggest the opposite; violent games reduce depression and hostile feelings in players through mood management~\cite{ferguson2015hitman}. 
+There is a constantly ongoing debate of whether playing video games produce negative side-effects or not~\cite{tear2014video}. Some earlier findings indicate that committing ``immoral'' virtual behaviors in a video game can lead to increased moral sensitivity of the player~\cite{grizzard2014being}. Others studies point towards that playing video games do not have any effect on depression, hostility, or visuospatial cognition~\cite{valadez2012just}. There are even results in experiments that suggest the opposite; violent games reduce depression and hostile feelings in players through mood management~\cite{ferguson2015hitman}. 
 
 On the contrary, some research hint that video games can result in \emph{positive} side-effects such as improved cognitive control, emotional regulation, spatial resolution of vision, hand-eye motor coordination, and contrast sensitivity~\cite{gong2015enhanced}. Other results point towards an improved probabilistic inference without loss of measurable accuracy~\cite{green2010improved}.
 
@@ -224,7 +225,7 @@ The final result of the rigs design is somewhat inspired by~\cite{salamin2010qua
 
 \begin{figure}
    \centering
-   \includegraphics[width=\textwidth]{ExternalMaterial/Rig}
+   \includegraphics[width=0.8\textwidth]{ExternalMaterial/Rig}
    \caption{A detailed overview of different parts of the rig. \label{fig:RigDesign}}
 \end{figure}
 
@@ -269,6 +270,11 @@ Each test subject also filled in details about their name, age and sex so the re
 % 888   T88b 8888888888 "Y8888P"   "Y88888P"  88888888   888
 
 \section{Results}
+In this section the results of the study will be presented.
+
+
+
+
 This section will cover the results from the tests that where done and;
 \begin{itemize}
 	\item The results from the tests - No significant findings
@@ -279,14 +285,39 @@ This section will cover the results from the tests that where done and;
 	\item Compare the performance between the different groups
 \end{itemize}
 
-\subsection{Gamers versus Non-gamers}
+
+
+
+%\subsection{Gamers versus Non-gamers}
 Results when comparing the two groups, gamers and non-gamers.
 \subsubsection{Accuracy Task}
-This section will contain information about:
+
+
+
+
 \begin{itemize}
-	\item Gamers slightly better when wearing goggles, worse when not wearing goggles. No significant results unfortunately. See~\ref{fig:Task1GraphP}
+	\item Gamers slightly better when wearing goggles, worse when not wearing goggles. No significant results unfortunately. See~\ref{tab:Task1GraphP}
 	\item Differences between the first configuration and the other two were both lower for gamers than for non-gamers. Same for the differences between the second and third configuration. Gamers slightly performed \textbf{better}. See~\ref{fig:Task1GraphD}.
 \end{itemize}
+
+\begin{table}[]
+\centering
+
+\label{tab:Task1GraphP}
+%\setlength{\tabcolsep}{0.8em}
+%\setlength\extrarowheight{0.8em}
+\def\arraystretch{1.8}
+\begin{tabular}{l|l|lll}
+                      & { \textbf{Gamers}} & {\textbf{Non-gamers}} &  &  \\ \cline{1-3}
+\textbf{Off}          & 1.3                                    & 1                                          &  &  \\ \cline{1-3}
+\textbf{First-Person} & 1.5                                    & 1.6                                        &  &  \\ \cline{1-3}
+\textbf{Third-Person} & 1.7                                    & 1.9                                        &  & 
+\end{tabular}
+\caption{Average performance (tries required, where less is better) for the two groups for task 1.}
+\end{table}
+
+
+
 
 \begin{figure}
    \centering
@@ -367,7 +398,7 @@ This section will contain information about:
 % 888  .d88P  888  Y88b  d88P Y88b  d88P Y88b. .d88P Y88b  d88P Y88b  d88P 
 % 8888888P" 8888888 "Y8888P"   "Y8888P"   "Y88888P"   "Y8888P"   "Y8888P"  
 
-\section{Discussion}
+\section{Discussion} \label{sec:Discussion}
 A general discussion about the study such as:
 \begin{itemize}
 	\item What part/conclusion in my study could be biast/not reliable
@@ -376,6 +407,11 @@ A general discussion about the study such as:
 	\item References to earlier work such as~\cite{schmierbach2011exploring}
 	\item What defines a gamer? How many hours played etc.
 \end{itemize}
+
+
+
+
+\subsection{Results}
 
 
 
@@ -390,7 +426,7 @@ Due to the time and budget limit there are several ways to improve upon our expe
 
 	\item[Video Goggles] Whilst the video goggles used have an average resolution, more sophisticated video goggles, such as the \emph{Oculus Rift}\footnote{More info can be found at http://www.sailvideosystem.com/p/3rdpersonview-all-sports-pro-166682} or the \emph{HTC Vive}\footnote{More info can be found at http://www.htcvr.com/}, with a higher pixel count could be used to create a more immerse and believable simulation. Since both of these are made for virtual reality gaming, their field-of-view is notably greater than in the SkyZone goggles used.
 
-	\item[More Segregated Groups] As discussed earlier, the definition of \emph{what defines a gamer} is not apparent. Since none of the student volunteers were professional, full-time gamers we cannot make any statements about \emph{actual gamers}\footnote{A person who spends most of their awake time playing games, mostly professionally but also casually}. The same goes for non-gamers; most of our subjects have sometime in their life been exposed to video games to some extent, either playing themselves or watching someone else playing. This results in oblique findings about non-gamers as well.
+	\item[More Segregated Groups] As discussed earlier in Section~\ref{sec:Discussion}, the definition of \emph{what defines a gamer} is not apparent. Since none of the student volunteers were professional, full-time gamers we cannot make any statements about \emph{actual gamers}\footnote{A person who spends most of their awake time playing games, mostly professionally but also casually}. The same goes for non-gamers; most of our subjects have sometime in their life been exposed to video games to some extent, either playing themselves or watching someone else playing. This results in oblique findings about non-gamers as well.
 
 	\item[Sex Ratio] Due to the high male skew in the study (especially amongst gamers), no conclusive findings about difference, or indifference, between males and females were found. This should not necessarily be recognized as a direct drawback, but could perhaps serve as a guide for further testing.
 \end{description}
