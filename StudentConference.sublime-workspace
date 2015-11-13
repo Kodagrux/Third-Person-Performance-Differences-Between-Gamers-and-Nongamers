@@ -523,7 +523,7 @@
 			"file": "Report/Report.tex",
 			"settings":
 			{
-				"buffer_size": 21793,
+				"buffer_size": 33672,
 				"line_ending": "Unix"
 			}
 		},
@@ -684,6 +684,9 @@
 	},
 	"file_history":
 	[
+		"/Users/arvidbrane/Dropbox/Projekt/markdownjs/markdown.js",
+		"/Users/arvidbrane/Dropbox/Skola/Student Conference/Report/llncs.cls",
+		"/Users/arvidbrane/Dropbox/Skola/Emergenta System/LarvNet/MeshNet.nlogo",
 		"/Users/arvidbrane/Dropbox/Skola/Student Conference/Report/Bibliography.bib",
 		"/Users/arvidbrane/Dropbox/Skola/Student Conference/Report/Report.aux",
 		"/Users/arvidbrane/Dropbox/Projekt/playoff.io/arvids crazy mad playground/navigation/index.html",
@@ -808,10 +811,7 @@
 		"/Users/arvidbrane/Dropbox/Projekt/Balticgruppen plugin/Python/parser/Parser.py",
 		"/Users/arvidbrane/Dropbox/Skola/AI/lab1/ou1.py",
 		"/Users/arvidbrane/Dropbox/Skola/AI/lab1/Laser.py",
-		"/Users/arvidbrane/Dropbox/Skola/AI/lab2/Node.py",
-		"/Users/arvidbrane/Dropbox/Skola/AI/lab2/Image.py",
-		"/Users/arvidbrane/Dropbox/Skola/AI/lab2/Facit.py",
-		"/Users/arvidbrane/Dropbox/Skola/AI/lab2/Faces.py"
+		"/Users/arvidbrane/Dropbox/Skola/AI/lab2/Node.py"
 	],
 	"find":
 	{
@@ -829,6 +829,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"  ",
+			"percent",
+			"percenta",
+			"subsubsec",
+			"subsec:",
+			"subs",
 			"green",
 			"markdo",
 			"Figure~",
@@ -950,13 +956,7 @@
 			"POI",
 			"poi",
 			"pois",
-			"Recommended",
-			"home",
-			"Auth::get('permission')",
-			"user_in_database",
-			"all_projects",
-			"clasS",
-			"h6"
+			"Recommended"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -983,15 +983,15 @@
 					"file": "Report/Report.tex",
 					"settings":
 					{
-						"buffer_size": 21793,
+						"buffer_size": 33672,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								18980,
-								18980
+								31858,
+								31858
 							]
 						],
 						"settings":
@@ -1090,10 +1090,11 @@
 							"sublimelinter_wrap_find": true,
 							"synced": false,
 							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 7650.0,
+						"translation.y": 12122.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1220,7 +1221,7 @@
 			]
 		},
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -1339,7 +1340,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 695.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1699,7 +1700,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2971.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1735,7 +1736,7 @@
 		"cols":
 		[
 			0.0,
-			0.548520406087,
+			0.660408020019,
 			1.0
 		],
 		"rows":
